@@ -1,24 +1,8 @@
-# pet-vuex
+# Animal Management App 🐶
 
-## Project setup
-```
-npm install
-```
+This is a dog and cat creation and management app developed using Vue.js and Bootstrap.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Install the dependencies: `npm install`
+- Run the app on a development server: `npm run serve`
